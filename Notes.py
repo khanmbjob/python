@@ -29,3 +29,5 @@ shape 	Return a tuple representing the dimensionality of the DataFrame.
 size 	Return an int representing the number of elements in this object.
 style 	Property returning a Styler object containing methods for building a styled HTML representation fo the DataFrame.
 values 	Return a Numpy representation of the DataFrame.
+#Types of classification algorithms in Machine Learning
+https://medium.com/@sifium/machine-learning-types-of-classification-9497bd4f2e14
